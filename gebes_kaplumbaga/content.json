@@ -1,0 +1,17 @@
+[
+    {
+        "type" : "text",
+        "desc" : "Bana anlat gebeş kaplumbağa",
+        "link" : ""
+    },
+    {
+        "type" : "sound",
+        "desc" : "Bana anlat gebeş kaplumbağa",
+        "link" : "gebes.vaw"
+    },
+    {
+        "type" : "video",
+        "desc" : "Gebeş kaplumbağa videosunun tamamı.",
+        "link" : "https://www.youtube.com/watch?v=YK4ABJ1q4Pw&pp=ygUSZ2ViZcWfIGthcGx1bWJhxJ9h"
+    }
+]
